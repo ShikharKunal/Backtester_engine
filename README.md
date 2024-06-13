@@ -7,7 +7,7 @@ This repository contains a backtesting engine designed for a static threshold st
 
 ### 1. [backtesting.py](./backtesting.py)
 
-The `backtngting.py` file containg the core `Backtester` class which handles the backtesting logic. The class takes a dataset and threshold values as arguments and calculates the PnL for each timestamp based on the implemented strategy.
+The `backtesting.py` file containg the core `Backtester` class which handles the backtesting logic. The class takes a dataset and threshold values as arguments and calculates the PnL for each timestamp based on the implemented strategy.
 
 #### Features
 
